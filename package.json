@@ -4,6 +4,7 @@
     "@tanstack/react-query-devtools": "^5.66.4",
     "create-react-app": "^5.1.0",
     "react-dom": "^19.0.0",
+    "superagent": "^10.1.1",
     "tanstack": "^1.0.0"
   },
   "devDependencies": {
