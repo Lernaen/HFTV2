@@ -1,0 +1,15 @@
+html,
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+  position: relative;
+  left: 125px;
+  padding: 35px;
+  justify-content: center;
+}
+
+large-font {
+  font-size: medium;
+}
